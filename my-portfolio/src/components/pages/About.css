@@ -1,0 +1,10 @@
+#profile-image {
+  margin-top: 2%;
+  margin-left: 70%;
+  position: absolute;
+  border: 2px solid #1a2930;
+  border-radius: 4px;
+  padding: 5px;
+  width: 300px;
+  flex-wrap: wrap;
+}
