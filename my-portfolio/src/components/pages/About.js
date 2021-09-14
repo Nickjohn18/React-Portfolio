@@ -8,11 +8,11 @@ const About = () => (
     <div>
       <img src={Picture} alt="" id="profile-image"></img>
     </div>
-    <div>
+    <div class="intro">
       <p>
         My name is Nick John De Luna. I was born in the Philippines and have
         lived in the United States, Jacksonville, Florida, for most of my life.
-        I've lived in Jacksonville for atleast 8 years and graduated from
+        I've lived in Jacksonville for at least 8 years and graduated from
         Sandalwood High School. I first wanted to pursue my talent in
         Informational Technology but caught interest in programming. Currently
         attending school to pursue my talent in Computer Science and in the

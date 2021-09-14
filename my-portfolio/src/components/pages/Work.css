@@ -1,0 +1,12 @@
+.title {
+  text-align: center;
+  font-size: larger;
+}
+.container {
+  justify-content: center;
+}
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}

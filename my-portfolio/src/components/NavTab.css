@@ -1,0 +1,26 @@
+nav {
+  background-color: #1a2930;
+}
+
+.links {
+  flex: 0 0 80%;
+}
+
+.nav-bar {
+  display: inline-flex;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+}
+.nav-bar li {
+  list-style: none;
+  text-decoration: none;
+  margin-left: 30%;
+
+  font-size: 50px;
+}
+
+.nav-bar a {
+  color: #f7ce3e;
+  font-weight: lighter;
+  text-decoration: none;
+}
