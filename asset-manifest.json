@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.b0dce784.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.ce9573f6.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.ce9573f6.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.faf4ab3c.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.faf4ab3c.js.map",
+    "static/js/2.d5d4cac1.chunk.js": "/React-Portfolio/static/js/2.d5d4cac1.chunk.js",
+    "static/js/2.d5d4cac1.chunk.js.map": "/React-Portfolio/static/js/2.d5d4cac1.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.b0dce784.chunk.css.map": "/React-Portfolio/static/css/main.b0dce784.chunk.css.map",
+    "static/js/2.d5d4cac1.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.d5d4cac1.chunk.js.LICENSE.txt",
+    "static/media/Dealsella.458c0996.jpg": "/React-Portfolio/static/media/Dealsella.458c0996.jpg",
+    "static/media/NickJohn.5837456f.jpg": "/React-Portfolio/static/media/NickJohn.5837456f.jpg",
+    "static/media/Weather.ee9e200a.png": "/React-Portfolio/static/media/Weather.ee9e200a.png",
+    "static/media/Workoutproject.b7581223.png": "/React-Portfolio/static/media/Workoutproject.b7581223.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faf4ab3c.js",
+    "static/js/2.d5d4cac1.chunk.js",
+    "static/css/main.b0dce784.chunk.css",
+    "static/js/main.ce9573f6.chunk.js"
+  ]
+}
