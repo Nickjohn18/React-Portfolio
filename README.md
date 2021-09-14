@@ -4,7 +4,7 @@
 
 This is my portfolio created using react. It has all my informations in terms of my projects and social accounts
 
-    ![profile](https://user-images.githubusercontent.com/81334326/133187222-bbcb9739-d746-48ef-a8fc-139168658893.png)
+![profile](https://user-images.githubusercontent.com/81334326/133187222-bbcb9739-d746-48ef-a8fc-139168658893.png)
 
 ## Table of Contents
 
