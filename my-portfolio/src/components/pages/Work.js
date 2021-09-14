@@ -12,7 +12,7 @@ import Typography from "@material-ui/core/Typography";
 import "./Work.css";
 import Workout from "./Workoutproject.png";
 import DealSella from "./Dealsella.jpg";
-
+import Weather from "./Weather.png";
 const useStyles = makeStyles({
   root: {
     maxWidth: 345,
@@ -53,7 +53,12 @@ export default function Work() {
               </CardContent>
             </CardActionArea>
             <CardActions>
-              <Button size="small" color="primary">
+              <Button
+                size="small"
+                color="primary"
+                target="_blank"
+                href="https://github.com/Browntuckerr/FullStackWorkout"
+              >
                 GitHub
               </Button>
             </CardActions>
@@ -83,7 +88,12 @@ export default function Work() {
               </CardContent>
             </CardActionArea>
             <CardActions>
-              <Button size="small" color="primary">
+              <Button
+                size="small"
+                color="primary"
+                target="_blank"
+                href="https://github.com/Browntuckerr/SteamAPIproject"
+              >
                 GITHUB
               </Button>
             </CardActions>
@@ -95,25 +105,30 @@ export default function Work() {
                 component="img"
                 alt="Contemplative Reptile"
                 height="140"
-                image="/static/images/cards/contemplative-reptile.jpg"
+                image={Weather}
                 title="Contemplative Reptile"
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="h2">
-                  Lizard
+                  Weather APP
                 </Typography>
                 <Typography variant="body2" color="textSecondary" component="p">
-                  Lizards are a widespread group of squamate reptiles, with over
-                  6,000 species, ranging across all continents except Antarctica
+                  In this project, I've created a weather app that uses real
+                  time data of a specific city. This allows user to input any
+                  city and receive information about the current weather as well
+                  as the 5 day forecast. It will display the temperature,
+                  humidity, wind speed, and UV index of the city requested.
                 </Typography>
               </CardContent>
             </CardActionArea>
             <CardActions>
-              <Button size="small" color="primary">
-                Share
-              </Button>
-              <Button size="small" color="primary">
-                Learn More
+              <Button
+                size="small"
+                color="primary"
+                href="https://github.com/Nickjohn18/Weather-App"
+                target="_blank"
+              >
+                GITHUB
               </Button>
             </CardActions>
           </Card>

@@ -30,16 +30,19 @@ export default function Footer() {
         label="Github"
         href="https://github.com/Nickjohn18"
         icon={<GitHubIcon />}
+        target="_blank"
       />
       <BottomNavigationAction
         label="Mail"
         href="mailto:nickjohndeluna21@gmail.com"
         icon={<EmailIcon />}
+        target="_blank"
       />
       <BottomNavigationAction
         label="LinkedIn"
         href="https://www.linkedin.com/in/nick-john-de-luna-12930520a/"
         icon={<LinkedInIcon />}
+        target="_blank"
       />
     </BottomNavigation>
   );
